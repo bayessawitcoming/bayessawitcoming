@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bayessawitcoming
+- 👀 I’m interested in Data Science!
+- 🌱 I’m currently learning more and more Python
+- 💞️ I’m looking to collaborate on newest developments in Data Science :)
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/daniel-fischer96/
